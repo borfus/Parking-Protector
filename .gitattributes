@@ -45,4 +45,5 @@
 *.tga filter=lfs diff=lfs merge=lfs -text
 *.tif filter=lfs diff=lfs merge=lfs -text
 *.tiff filter=lfs diff=lfs merge=lfs -text
-*.aspx linguist-vendored=true
+*.aspx linguist-vendored=false
+*.asp linguist-vendored=false
